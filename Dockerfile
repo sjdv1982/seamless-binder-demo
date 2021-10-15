@@ -1,4 +1,4 @@
-FROM rpbs/seamless:0.7
+FROM rpbs/seamless@sha256:ccbe1990479b5f3ff8e9b471688d0400b06bbcad73b590fa491b4d1165669bb0
 LABEL author="Sjoerd de Vries <sjoerd.de-vries@inserm.fr>"
 LABEL version="0.7"
 RUN cd /home/jovyan && rm -rf work seamless-docker seamless-examples 
