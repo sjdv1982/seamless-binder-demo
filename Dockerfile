@@ -1,4 +1,4 @@
-FROM rpbs/seamless@sha256:7da50497c31fd29609b81f6b5d264beaa45321ae1e2c0a7a967ade3532cc3d9f
+FROM rpbs/seamless@sha256:1256c6a1e683ba96909a64d676e47404f645a1f2d2e9ec88388eca8f1e4d4663
 LABEL author="Sjoerd de Vries <sjoerd.de-vries@inserm.fr>"
 LABEL version="0.8"
 COPY jupyterlab-shortcuts.json /home/jovyan/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
