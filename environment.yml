@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3.8
   - pip
-  - rpbs::seamless-framework
+  - rpbs::seamless-framework>=0.9.5
   - conda=4.12
   - pip:
     - nglview
