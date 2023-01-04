@@ -7,6 +7,7 @@ dependencies:
   - rpbs::seamless-framework=0.10
   - conda=4.12
   - pip:
+    - makefun
     - nglview
     - snakemake
     - cson==0.8
