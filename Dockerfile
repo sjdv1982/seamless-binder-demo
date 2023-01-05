@@ -1,1 +1,1 @@
-FROM rpbs/seamless-binder-demo:f62c2b0e89c4aad45a31a12a95945baa54024f84c9b67f80a1725ca99fdbf99a
+FROM rpbs/seamless-binder-demo@sha256:f62c2b0e89c4aad45a31a12a95945baa54024f84c9b67f80a1725ca99fdbf99a
