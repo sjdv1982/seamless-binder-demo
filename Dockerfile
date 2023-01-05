@@ -1,1 +1,1 @@
-FROM rpbs/seamless-binder-demo:e27ec266be3c8f06b883d98c2aa7b92971a64c7c37eaac20697ac93447e15d60
+FROM rpbs/seamless-binder-demo:f62c2b0e89c4aad45a31a12a95945baa54024f84c9b67f80a1725ca99fdbf99a
