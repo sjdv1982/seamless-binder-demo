@@ -1,4 +1,4 @@
-name: seamless-framework
+name: seamless-binder-demo
 channels:
   - conda-forge
 dependencies:
