@@ -8,7 +8,7 @@ dependencies:
   - pip=23.0.*
   - rpbs::seamless-framework==0.12
   - rpbs::silk==0.1.11
-  - rpbs::seamless-cli
+  - rpbs::seamless-cli-bin
   - conda=23.1.*
   - ruamel.yaml=0.17.*
   - psutil=5.9.*
