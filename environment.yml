@@ -9,6 +9,7 @@ dependencies:
   - rpbs::seamless-framework==0.12
   - rpbs::silk==0.1.11
   - rpbs::seamless-cli-bin
+  - rpbs::seamless-cli-complement
   - conda=23.1.*
   - ruamel.yaml=0.17.*
   - psutil=5.9.*
